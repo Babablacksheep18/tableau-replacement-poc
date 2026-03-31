@@ -1,0 +1,401 @@
+opportunity_id,account_name,deal_value,stage,probability,expected_close_date,created_date,product_line,sales_rep,region,last_activity_date
+OPP-2026-0001,Sterling Financial,94000,Qualification,25,2026-01-11,2025-11-02,Cloud Services,Marcus Johnson,South,2026-03-13
+OPP-2026-0002,Flint Analytics,41000,Proposal,50,2026-04-08,2026-02-28,Cloud Services,Amanda Foster,East,2026-03-05
+OPP-2026-0003,Silverline Consulting,29000,Negotiation,75,2025-10-12,2025-09-07,SaaS Platform,Kevin O'Brien,South,2026-03-08
+OPP-2026-0004,Granite Logistics,23000,Qualification,25,2026-03-20,2026-02-12,Managed Services,Laura Patel,West,2026-03-16
+OPP-2026-0005,Driftwood Digital,23000,Proposal,50,2025-12-23,2025-09-28,Enterprise Software,Stephanie Cruz,East,2026-03-20
+OPP-2026-0006,Foundry Systems,46000,Closed Lost,0,2026-01-02,2025-11-29,Data Analytics,Marcus Johnson,East,2026-01-06
+OPP-2026-0007,Foundry Systems,54000,Proposal,50,2026-05-16,2026-01-30,Data Analytics,Nathan Ellis,East,2026-03-31
+OPP-2026-0008,Driftwood Digital,68000,Negotiation,75,2025-10-19,2025-08-15,Data Analytics,David Chen,East,2026-03-26
+OPP-2026-0009,Falcon Industries,30000,Closed Lost,0,2025-10-07,2025-07-01,Cloud Services,Tyler Brooks,North,2025-09-21
+OPP-2026-0010,Sapphire Consulting,139000,Closed Lost,0,2025-10-31,2025-07-23,Professional Services,Laura Patel,East,2025-10-16
+OPP-2026-0011,Palladium Services,32000,Qualification,25,2026-06-10,2026-03-30,Data Analytics,Emily Rodriguez,South,2026-03-31
+OPP-2026-0012,Cobalt Networks,38000,Negotiation,75,2026-04-02,2026-01-31,Professional Services,Diana Nguyen,South,2026-03-14
+OPP-2026-0013,Cypress Data,74000,Prospecting,10,2026-05-10,2026-03-21,Cybersecurity,Sarah Mitchell,North,2026-03-28
+OPP-2026-0014,Southfield Industries,53000,Closed Won,100,2025-12-28,2025-10-08,Professional Services,Kevin O'Brien,East,2025-12-22
+OPP-2026-0015,Thornton & Associates,17000,Proposal,50,2026-04-29,2026-01-16,Data Analytics,Emily Rodriguez,North,2026-03-04
+OPP-2026-0016,Westbrook Partners,42000,Qualification,25,2026-05-20,2026-03-12,Professional Services,Diana Nguyen,West,2026-03-20
+OPP-2026-0017,Cobblestone Media,201000,Closed Lost,0,2025-10-23,2025-06-26,Cloud Services,Stephanie Cruz,West,2025-10-09
+OPP-2026-0018,Luminary Group,15000,Negotiation,75,2026-04-19,2026-02-01,Professional Services,Stephanie Cruz,East,2026-03-22
+OPP-2026-0019,Flint Analytics,30000,Closed Won,100,2025-11-03,2025-08-28,Hardware & Infrastructure,Laura Patel,East,2025-10-22
+OPP-2026-0020,Foundry Systems,76000,Closed Won,100,2025-10-24,2025-07-13,Cloud Services,Diana Nguyen,West,2025-10-28
+OPP-2026-0021,Westbrook Partners,109000,Negotiation,75,2026-03-28,2026-02-18,Hardware & Infrastructure,Nathan Ellis,East,2026-03-31
+OPP-2026-0022,Topaz Solutions,80000,Closed Lost,0,2026-02-21,2025-10-28,SaaS Platform,Laura Patel,South,2026-02-01
+OPP-2026-0023,Northgate Solutions,32000,Closed Won,100,2026-03-17,2025-12-16,Cloud Services,Sarah Mitchell,East,2026-03-10
+OPP-2026-0024,Silverstone Media,21000,Negotiation,75,2025-12-15,2025-09-03,Data Analytics,Sarah Mitchell,South,2026-03-16
+OPP-2026-0025,Harbor View Financial,9000,Proposal,50,2026-02-12,2025-11-03,SaaS Platform,Laura Patel,East,2026-03-09
+OPP-2026-0026,Vertex Capital,52000,Qualification,25,2026-04-04,2026-03-04,Professional Services,Emily Rodriguez,East,2026-03-26
+OPP-2026-0027,Highpoint Consulting,65000,Proposal,50,2025-10-11,2025-07-22,Data Analytics,Kevin O'Brien,East,2026-03-07
+OPP-2026-0028,Summit Enterprises,76000,Negotiation,75,2026-03-13,2026-02-11,Data Analytics,Marcus Johnson,East,2026-03-25
+OPP-2026-0029,Northstar Analytics,49000,Negotiation,75,2026-02-21,2025-10-31,Enterprise Software,Brandon Walsh,South,2026-03-13
+OPP-2026-0030,Topaz Solutions,102000,Closed Won,100,2026-03-03,2025-11-26,Data Analytics,Laura Patel,West,2026-02-24
+OPP-2026-0031,Diamond Networks,188000,Proposal,50,2025-10-05,2025-07-20,Managed Services,Sarah Mitchell,North,2026-03-25
+OPP-2026-0032,Fieldstone Advisors,46000,Proposal,50,2026-01-23,2025-09-25,Cybersecurity,Stephanie Cruz,South,2026-03-26
+OPP-2026-0033,Chalk Industries,32000,Prospecting,10,2026-05-16,2026-03-30,Professional Services,David Chen,South,2026-03-31
+OPP-2026-0034,Cobblestone Media,6000,Negotiation,75,2025-11-14,2025-08-15,Data Analytics,Nathan Ellis,North,2026-03-18
+OPP-2026-0035,Clearwater Health,61000,Closed Lost,0,2025-10-15,2025-06-21,Hardware & Infrastructure,James Thornton,South,2025-10-19
+OPP-2026-0036,Westbrook Partners,30000,Prospecting,10,2026-06-24,2026-03-21,Data Analytics,Kevin O'Brien,East,2026-03-21
+OPP-2026-0037,Cornerstone IT,25000,Prospecting,10,2026-06-09,2026-03-30,Cybersecurity,James Thornton,East,2026-03-31
+OPP-2026-0038,Cascade Partners,65000,Qualification,25,2026-06-10,2026-02-13,Enterprise Software,Marcus Johnson,West,2026-03-27
+OPP-2026-0039,Cornerstone IT,39000,Negotiation,75,2026-03-13,2025-12-31,Data Analytics,Rachel Kim,East,2026-03-28
+OPP-2026-0040,Summit Enterprises,26000,Closed Won,100,2025-10-15,2025-07-11,Cybersecurity,Kevin O'Brien,South,2025-10-01
+OPP-2026-0041,Topaz Solutions,83000,Negotiation,75,2026-04-30,2026-02-07,Enterprise Software,Marcus Johnson,North,2026-03-18
+OPP-2026-0042,Ironwood Manufacturing,25000,Proposal,50,2026-02-01,2025-10-30,Professional Services,Nathan Ellis,East,2026-03-26
+OPP-2026-0043,Goldcrest Analytics,58000,Qualification,25,2026-06-27,2026-03-30,Managed Services,Marcus Johnson,East,2026-03-31
+OPP-2026-0044,Coppercrest Software,58000,Proposal,50,2026-04-24,2026-01-29,Hardware & Infrastructure,David Chen,South,2026-03-31
+OPP-2026-0045,Meridian Global,47000,Negotiation,75,2026-04-03,2026-02-25,Cybersecurity,Stephanie Cruz,South,2026-03-08
+OPP-2026-0046,Broadridge Media,18000,Negotiation,75,2026-04-11,2026-03-01,Professional Services,Brandon Walsh,South,2026-03-01
+OPP-2026-0047,Thornton & Associates,24000,Closed Lost,0,2025-11-12,2025-07-16,Cloud Services,Brandon Walsh,South,2025-10-30
+OPP-2026-0048,Willow Creek Software,50000,Proposal,50,2026-05-15,2026-02-15,Cloud Services,James Thornton,East,2026-03-27
+OPP-2026-0049,Broadridge Media,104000,Negotiation,75,2026-05-03,2026-01-11,Managed Services,Sarah Mitchell,East,2026-03-06
+OPP-2026-0050,Sterling Financial,43000,Proposal,50,2025-11-08,2025-09-14,Cybersecurity,Tyler Brooks,East,2026-03-08
+OPP-2026-0051,Amber Wave Solutions,91000,Negotiation,75,2026-04-15,2026-01-28,Cybersecurity,Emily Rodriguez,North,2026-03-16
+OPP-2026-0052,Cedarwood Capital,83000,Negotiation,75,2026-04-25,2026-02-28,Enterprise Software,David Chen,East,2026-03-15
+OPP-2026-0053,Pumice Analytics,37000,Closed Won,100,2025-10-12,2025-07-20,Cloud Services,David Chen,South,2025-10-12
+OPP-2026-0054,Emerald Systems,91000,Closed Lost,0,2025-11-23,2025-10-05,Professional Services,Marcus Johnson,South,2025-11-21
+OPP-2026-0055,Highpoint Consulting,37000,Closed Lost,0,2026-03-16,2026-01-27,Cloud Services,Laura Patel,East,2026-03-15
+OPP-2026-0056,Ironclad Software,70000,Negotiation,75,2026-04-16,2026-01-28,Cybersecurity,Emily Rodriguez,West,2026-03-13
+OPP-2026-0057,Basalt Technologies,48000,Closed Lost,0,2025-10-06,2025-07-21,Managed Services,Laura Patel,East,2025-10-07
+OPP-2026-0058,Granite Logistics,30000,Prospecting,10,2026-06-11,2026-03-30,Professional Services,Nathan Ellis,East,2026-03-30
+OPP-2026-0059,Harbor View Financial,92000,Qualification,25,2025-10-05,2025-07-23,Enterprise Software,Diana Nguyen,East,2026-03-12
+OPP-2026-0060,Luminary Group,38000,Closed Lost,0,2026-02-03,2025-12-23,Enterprise Software,Emily Rodriguez,East,2026-02-01
+OPP-2026-0061,Diamond Networks,46000,Proposal,50,2025-12-21,2025-10-10,Professional Services,Emily Rodriguez,South,2026-03-27
+OPP-2026-0062,Pinnacle Solutions,30000,Proposal,50,2026-04-05,2026-01-31,Cloud Services,Rachel Kim,North,2026-03-04
+OPP-2026-0063,Ironwood Manufacturing,83000,Qualification,25,2026-05-05,2026-01-28,Managed Services,Sarah Mitchell,East,2026-03-01
+OPP-2026-0064,Coppercrest Software,38000,Qualification,25,2026-06-20,2026-03-30,Professional Services,Brandon Walsh,South,2026-03-31
+OPP-2026-0065,Skyline Networks,164000,Qualification,25,2026-01-14,2025-10-25,Managed Services,Marcus Johnson,East,2026-03-13
+OPP-2026-0066,Driftwood Digital,11000,Closed Lost,0,2025-12-29,2025-09-11,Data Analytics,Brandon Walsh,West,2025-12-12
+OPP-2026-0067,Crossroads Digital,101000,Qualification,25,2026-06-16,2026-03-05,Cloud Services,Stephanie Cruz,South,2026-03-07
+OPP-2026-0068,Obsidian Capital,184000,Negotiation,75,2026-04-23,2025-12-25,Data Analytics,Tyler Brooks,North,2026-03-19
+OPP-2026-0069,Sandstone Systems,84000,Closed Won,100,2025-11-23,2025-08-27,Cybersecurity,Laura Patel,North,2025-11-10
+OPP-2026-0070,Crossroads Digital,78000,Qualification,25,2025-11-26,2025-08-29,SaaS Platform,Nathan Ellis,West,2026-03-20
+OPP-2026-0071,Southfield Industries,41000,Closed Lost,0,2025-12-31,2025-10-27,Hardware & Infrastructure,James Thornton,East,2025-12-16
+OPP-2026-0072,Clearwater Health,20000,Qualification,25,2026-05-23,2026-02-21,Managed Services,Stephanie Cruz,West,2026-03-21
+OPP-2026-0073,Midland Dynamics,22000,Closed Lost,0,2025-12-04,2025-10-05,Enterprise Software,Kevin O'Brien,West,2025-12-01
+OPP-2026-0074,Ember Innovations,55000,Closed Won,100,2026-03-28,2026-01-30,SaaS Platform,Marcus Johnson,South,2026-03-11
+OPP-2026-0075,Midpoint Analytics,38000,Closed Lost,0,2026-01-21,2025-11-14,Cybersecurity,Marcus Johnson,South,2026-01-09
+OPP-2026-0076,Northstar Analytics,29000,Prospecting,10,2026-06-20,2026-03-30,Managed Services,Emily Rodriguez,South,2026-03-31
+OPP-2026-0077,Cornerstone IT,138000,Negotiation,75,2026-03-19,2025-11-27,Enterprise Software,James Thornton,East,2026-03-25
+OPP-2026-0078,Basalt Technologies,137000,Negotiation,75,2026-04-09,2026-01-20,Enterprise Software,Laura Patel,East,2026-03-07
+OPP-2026-0079,Quartz Technologies,51000,Negotiation,75,2026-04-10,2026-02-09,Enterprise Software,Marcus Johnson,North,2026-03-13
+OPP-2026-0080,Pinnacle Solutions,177000,Qualification,25,2025-11-27,2025-08-30,Enterprise Software,James Thornton,West,2026-03-18
+OPP-2026-0081,Ember Innovations,47000,Closed Won,100,2026-01-25,2025-12-10,Data Analytics,Marcus Johnson,South,2026-01-30
+OPP-2026-0082,Clearwater Health,126000,Proposal,50,2026-04-04,2026-02-28,SaaS Platform,Tyler Brooks,North,2026-03-02
+OPP-2026-0083,Southfield Industries,36000,Negotiation,75,2026-01-10,2025-10-15,Hardware & Infrastructure,Kevin O'Brien,West,2026-03-23
+OPP-2026-0084,Wavecrest Ventures,10000,Closed Won,100,2026-03-12,2026-01-30,Hardware & Infrastructure,Nathan Ellis,West,2026-03-15
+OPP-2026-0085,Foxglove Analytics,43000,Proposal,50,2026-05-14,2026-02-17,Enterprise Software,Rachel Kim,West,2026-03-18
+OPP-2026-0086,Quartz Technologies,24000,Proposal,50,2026-03-08,2025-12-03,Managed Services,Stephanie Cruz,South,2026-03-23
+OPP-2026-0087,Cornerstone IT,56000,Qualification,25,2026-06-27,2026-03-30,Managed Services,Brandon Walsh,East,2026-03-31
+OPP-2026-0088,Southfield Industries,105000,Qualification,25,2026-01-20,2025-12-02,Hardware & Infrastructure,Laura Patel,East,2026-03-12
+OPP-2026-0089,Westbrook Partners,23000,Prospecting,10,2026-06-19,2026-03-09,Cybersecurity,Brandon Walsh,West,2026-03-19
+OPP-2026-0090,Ironclad Software,20000,Closed Lost,0,2025-12-02,2025-10-29,SaaS Platform,Tyler Brooks,East,2025-11-14
+OPP-2026-0091,Foundry Systems,19000,Negotiation,75,2026-05-13,2026-01-20,Data Analytics,Kevin O'Brien,West,2026-03-20
+OPP-2026-0092,Ruby Dynamics,109000,Prospecting,10,2026-06-30,2026-03-30,Cybersecurity,Diana Nguyen,East,2026-03-31
+OPP-2026-0093,Cypress Data,57000,Qualification,25,2026-06-23,2026-03-15,Hardware & Infrastructure,Diana Nguyen,South,2026-03-21
+OPP-2026-0094,Southfield Industries,51000,Negotiation,75,2025-10-11,2025-08-26,Enterprise Software,James Thornton,North,2026-03-24
+OPP-2026-0095,Cobalt Networks,40000,Prospecting,10,2026-06-08,2026-02-20,Professional Services,Diana Nguyen,North,2026-03-07
+OPP-2026-0096,Northgate Solutions,34000,Proposal,50,2026-03-22,2026-02-01,SaaS Platform,Amanda Foster,North,2026-03-03
+OPP-2026-0097,Granite Logistics,64000,Closed Lost,0,2026-02-03,2025-11-05,SaaS Platform,Tyler Brooks,West,2026-01-18
+OPP-2026-0098,Skyline Networks,23000,Closed Lost,0,2025-12-03,2025-08-28,Hardware & Infrastructure,Stephanie Cruz,North,2025-11-26
+OPP-2026-0099,Meridian Global,166000,Qualification,25,2026-06-09,2026-02-19,SaaS Platform,Stephanie Cruz,South,2026-03-03
+OPP-2026-0100,Cypress Data,63000,Closed Lost,0,2025-10-14,2025-06-22,Professional Services,Laura Patel,South,2025-10-01
+OPP-2026-0101,Eastgate Corp,9000,Closed Won,100,2025-12-14,2025-10-11,Managed Services,Amanda Foster,East,2025-12-04
+OPP-2026-0102,Cypress Data,32000,Closed Won,100,2025-12-02,2025-10-05,Data Analytics,Stephanie Cruz,East,2025-11-11
+OPP-2026-0103,Vantage Point LLC,215000,Qualification,25,2026-05-22,2026-03-30,Managed Services,Rachel Kim,East,2026-03-31
+OPP-2026-0104,Willow Creek Software,100000,Qualification,25,2026-05-24,2026-02-27,Cloud Services,David Chen,West,2026-03-11
+OPP-2026-0105,Southfield Industries,33000,Negotiation,75,2026-01-02,2025-09-21,Cybersecurity,Laura Patel,West,2026-03-01
+OPP-2026-0106,Fieldstone Advisors,30000,Closed Lost,0,2026-03-13,2025-11-22,Professional Services,James Thornton,South,2026-03-02
+OPP-2026-0107,Foxglove Analytics,110000,Closed Lost,0,2025-12-03,2025-09-22,Data Analytics,Marcus Johnson,North,2025-11-21
+OPP-2026-0108,Diamond Networks,86000,Negotiation,75,2025-11-07,2025-09-11,Hardware & Infrastructure,Emily Rodriguez,East,2026-03-19
+OPP-2026-0109,Pinnacle Solutions,19000,Prospecting,10,2026-06-13,2026-03-30,Managed Services,Tyler Brooks,North,2026-03-31
+OPP-2026-0110,Cypress Data,84000,Closed Lost,0,2026-01-27,2025-12-25,Enterprise Software,Tyler Brooks,East,2026-01-26
+OPP-2026-0111,Willow Creek Software,12000,Negotiation,75,2026-02-07,2025-12-14,Cybersecurity,David Chen,North,2026-03-18
+OPP-2026-0112,Riverstone Inc,14000,Negotiation,75,2026-04-25,2026-01-01,Cybersecurity,Laura Patel,West,2026-03-24
+OPP-2026-0113,Cascade Partners,32000,Negotiation,75,2025-10-30,2025-07-11,Cybersecurity,Kevin O'Brien,East,2026-03-11
+OPP-2026-0114,Flint Analytics,30000,Prospecting,10,2026-06-18,2026-03-30,Professional Services,Stephanie Cruz,East,2026-03-30
+OPP-2026-0115,Onyx Industries,21000,Qualification,25,2026-06-10,2026-03-30,Cybersecurity,Sarah Mitchell,East,2026-03-31
+OPP-2026-0116,Quartz Technologies,37000,Negotiation,75,2025-10-14,2025-06-29,Cybersecurity,Marcus Johnson,West,2026-03-29
+OPP-2026-0117,Shale Solutions,12000,Proposal,50,2026-01-06,2025-10-18,Managed Services,Brandon Walsh,East,2026-03-10
+OPP-2026-0118,Midpoint Analytics,19000,Negotiation,75,2025-11-28,2025-10-17,SaaS Platform,Diana Nguyen,North,2026-03-17
+OPP-2026-0119,Blueridge Energy,45000,Closed Won,100,2026-01-21,2025-11-17,Cloud Services,Rachel Kim,East,2025-12-31
+OPP-2026-0120,Benchmark Global,25000,Closed Lost,0,2025-11-05,2025-08-08,SaaS Platform,Rachel Kim,West,2025-10-27
+OPP-2026-0121,Ember Innovations,89000,Prospecting,10,2026-06-02,2026-02-11,Data Analytics,Tyler Brooks,North,2026-03-19
+OPP-2026-0122,Compass Enterprises,84000,Closed Won,100,2026-03-09,2026-01-28,Cybersecurity,Laura Patel,North,2026-02-17
+OPP-2026-0123,Ruby Dynamics,88000,Closed Won,100,2026-02-11,2025-12-14,Professional Services,Stephanie Cruz,West,2026-02-05
+OPP-2026-0124,Sandstone Systems,146000,Closed Lost,0,2025-10-30,2025-08-13,Cybersecurity,Brandon Walsh,North,2025-11-04
+OPP-2026-0125,Pinnacle Solutions,29000,Closed Lost,0,2025-11-30,2025-09-25,Enterprise Software,Amanda Foster,West,2025-11-12
+OPP-2026-0126,Foxglove Analytics,77000,Closed Lost,0,2025-10-13,2025-07-27,Professional Services,Stephanie Cruz,East,2025-10-08
+OPP-2026-0127,Highpoint Consulting,34000,Proposal,50,2025-11-08,2025-08-21,SaaS Platform,Sarah Mitchell,South,2026-03-03
+OPP-2026-0128,Silverstone Media,36000,Closed Lost,0,2025-11-12,2025-08-06,SaaS Platform,Marcus Johnson,West,2025-10-24
+OPP-2026-0129,Falcon Industries,54000,Negotiation,75,2026-04-20,2026-02-21,Cybersecurity,Emily Rodriguez,North,2026-03-26
+OPP-2026-0130,Atlas Technologies,15000,Negotiation,75,2025-10-01,2025-08-23,Cybersecurity,Amanda Foster,South,2026-03-03
+OPP-2026-0131,Compass Enterprises,54000,Proposal,50,2026-04-03,2026-01-16,Hardware & Infrastructure,Emily Rodriguez,South,2026-03-22
+OPP-2026-0132,Falcon Industries,76000,Closed Lost,0,2025-12-08,2025-10-26,Enterprise Software,Kevin O'Brien,East,2025-11-20
+OPP-2026-0133,Crestview Industries,37000,Closed Lost,0,2025-12-28,2025-11-15,Hardware & Infrastructure,David Chen,East,2025-12-23
+OPP-2026-0134,Ember Innovations,69000,Proposal,50,2025-10-03,2025-06-10,Professional Services,Diana Nguyen,West,2026-03-22
+OPP-2026-0135,Cobblestone Media,46000,Closed Lost,0,2026-03-08,2025-12-29,Data Analytics,Kevin O'Brien,West,2026-03-09
+OPP-2026-0136,Shale Solutions,30000,Proposal,50,2026-05-26,2026-02-16,SaaS Platform,Nathan Ellis,West,2026-03-25
+OPP-2026-0137,Vantage Point LLC,208000,Negotiation,75,2025-12-22,2025-08-25,Managed Services,Kevin O'Brien,West,2026-03-24
+OPP-2026-0138,Anchor Capital,38000,Prospecting,10,2026-06-17,2026-03-30,Cloud Services,Nathan Ellis,West,2026-03-31
+OPP-2026-0139,Wavecrest Ventures,44000,Proposal,50,2025-10-30,2025-08-15,Data Analytics,Emily Rodriguez,West,2026-03-10
+OPP-2026-0140,Cascade Partners,29000,Negotiation,75,2025-11-23,2025-09-16,Data Analytics,David Chen,West,2026-03-26
+OPP-2026-0141,Obsidian Capital,54000,Closed Won,100,2025-12-02,2025-09-21,Cybersecurity,Marcus Johnson,South,2025-12-06
+OPP-2026-0142,Horizon Dynamics,12000,Closed Won,100,2025-12-11,2025-09-10,Enterprise Software,Diana Nguyen,East,2025-11-24
+OPP-2026-0143,Driftwood Digital,17000,Closed Won,100,2025-11-25,2025-09-09,SaaS Platform,Laura Patel,South,2025-11-28
+OPP-2026-0144,Ruby Dynamics,24000,Proposal,50,2026-04-01,2026-01-10,Data Analytics,James Thornton,North,2026-03-18
+OPP-2026-0145,Pinnacle Solutions,87000,Closed Won,100,2025-10-22,2025-08-14,Managed Services,Laura Patel,South,2025-10-05
+OPP-2026-0146,Evergreen Systems,48000,Negotiation,75,2026-05-22,2026-02-13,Data Analytics,Rachel Kim,North,2026-03-16
+OPP-2026-0147,Northgate Solutions,44000,Closed Lost,0,2026-02-25,2025-12-16,SaaS Platform,Laura Patel,South,2026-03-01
+OPP-2026-0148,Meridian Global,86000,Qualification,25,2026-05-31,2026-03-30,Cybersecurity,David Chen,East,2026-03-30
+OPP-2026-0149,Basalt Technologies,22000,Prospecting,10,2026-05-04,2026-03-30,Managed Services,Kevin O'Brien,East,2026-03-30
+OPP-2026-0150,Ironclad Software,106000,Closed Won,100,2026-01-15,2025-12-01,Data Analytics,Nathan Ellis,East,2025-12-29
+OPP-2026-0151,Vertex Capital,125000,Proposal,50,2025-12-08,2025-09-10,Professional Services,Diana Nguyen,South,2026-03-22
+OPP-2026-0152,Crestview Industries,22000,Closed Lost,0,2026-03-12,2026-02-07,Managed Services,Stephanie Cruz,South,2026-03-04
+OPP-2026-0153,Ember Innovations,57000,Qualification,25,2025-11-03,2025-09-06,Professional Services,Amanda Foster,East,2026-03-15
+OPP-2026-0154,Flint Analytics,178000,Closed Won,100,2026-01-16,2025-12-15,Managed Services,Rachel Kim,South,2026-01-08
+OPP-2026-0155,Amber Wave Solutions,68000,Proposal,50,2026-01-12,2025-10-08,Data Analytics,Diana Nguyen,East,2026-03-09
+OPP-2026-0156,Flint Analytics,11000,Closed Won,100,2026-01-20,2025-10-14,Hardware & Infrastructure,Nathan Ellis,North,2026-01-17
+OPP-2026-0157,Shale Solutions,270000,Proposal,50,2026-05-04,2026-02-10,Hardware & Infrastructure,Laura Patel,East,2026-03-19
+OPP-2026-0158,Slate Digital,60000,Proposal,50,2026-03-12,2026-01-09,Data Analytics,Rachel Kim,North,2026-03-16
+OPP-2026-0159,Skyline Networks,5000,Closed Lost,0,2026-03-11,2025-12-01,Professional Services,James Thornton,East,2026-03-15
+OPP-2026-0160,Wavecrest Ventures,83000,Negotiation,75,2026-02-25,2025-12-07,Hardware & Infrastructure,Laura Patel,South,2026-03-19
+OPP-2026-0161,Meridian Global,36000,Closed Lost,0,2026-01-02,2025-09-13,Cybersecurity,Brandon Walsh,North,2025-12-20
+OPP-2026-0162,Crestview Industries,47000,Closed Lost,0,2026-01-01,2025-09-15,Enterprise Software,Laura Patel,West,2025-12-16
+OPP-2026-0163,Apex Systems,13000,Prospecting,10,2026-06-23,2026-03-28,Professional Services,Amanda Foster,East,2026-03-29
+OPP-2026-0164,Thornton & Associates,54000,Negotiation,75,2026-02-21,2026-01-15,Enterprise Software,Emily Rodriguez,West,2026-03-19
+OPP-2026-0165,Stormfront Security,73000,Closed Lost,0,2025-12-18,2025-08-28,Cybersecurity,Diana Nguyen,North,2025-12-05
+OPP-2026-0166,Cobblestone Media,16000,Qualification,25,2025-11-18,2025-09-21,Professional Services,Tyler Brooks,North,2026-03-27
+OPP-2026-0167,Ruby Dynamics,17000,Closed Lost,0,2026-01-08,2025-10-07,Managed Services,Amanda Foster,West,2026-01-01
+OPP-2026-0168,Blackstone Tech,30000,Negotiation,75,2026-04-18,2025-12-26,Professional Services,Nathan Ellis,North,2026-03-11
+OPP-2026-0169,Midpoint Analytics,31000,Proposal,50,2026-01-23,2025-10-24,SaaS Platform,Nathan Ellis,West,2026-03-03
+OPP-2026-0170,Wavecrest Ventures,62000,Negotiation,75,2026-02-08,2025-10-12,SaaS Platform,Tyler Brooks,East,2026-03-30
+OPP-2026-0171,Crossroads Digital,121000,Negotiation,75,2026-01-08,2025-10-21,Data Analytics,Sarah Mitchell,East,2026-03-01
+OPP-2026-0172,Ember Innovations,52000,Negotiation,75,2025-11-26,2025-08-16,Cybersecurity,Stephanie Cruz,West,2026-03-08
+OPP-2026-0173,Luminary Group,57000,Closed Lost,0,2025-11-01,2025-07-04,Data Analytics,Diana Nguyen,West,2025-10-12
+OPP-2026-0174,Chalk Industries,35000,Qualification,25,2026-01-09,2025-09-20,Data Analytics,Sarah Mitchell,South,2026-03-03
+OPP-2026-0175,Chalk Industries,64000,Proposal,50,2026-03-15,2026-01-15,Cybersecurity,Tyler Brooks,West,2026-03-06
+OPP-2026-0176,Midland Dynamics,187000,Negotiation,75,2026-03-22,2025-12-08,Cloud Services,Rachel Kim,South,2026-03-20
+OPP-2026-0177,Wavecrest Ventures,14000,Qualification,25,2026-05-02,2026-02-11,Professional Services,Marcus Johnson,North,2026-03-11
+OPP-2026-0178,Cobalt Networks,23000,Closed Won,100,2025-10-30,2025-07-08,Cybersecurity,Brandon Walsh,East,2025-10-17
+OPP-2026-0179,Amber Wave Solutions,121000,Prospecting,10,2026-04-30,2026-03-22,Data Analytics,James Thornton,East,2026-03-23
+OPP-2026-0180,Ironwood Manufacturing,106000,Proposal,50,2026-02-22,2025-12-19,Cybersecurity,Kevin O'Brien,South,2026-03-02
+OPP-2026-0181,Foundry Systems,51000,Proposal,50,2026-05-31,2026-02-22,Professional Services,James Thornton,West,2026-03-30
+OPP-2026-0182,Onyx Industries,75000,Prospecting,10,2026-05-19,2026-03-30,Professional Services,Diana Nguyen,North,2026-03-31
+OPP-2026-0183,Blueridge Energy,19000,Prospecting,10,2026-05-29,2026-03-30,Managed Services,Rachel Kim,West,2026-03-31
+OPP-2026-0184,Fieldstone Advisors,80000,Closed Lost,0,2026-01-28,2025-12-16,SaaS Platform,Sarah Mitchell,South,2026-01-30
+OPP-2026-0185,Northstar Analytics,22000,Proposal,50,2025-12-15,2025-09-29,Enterprise Software,Kevin O'Brien,East,2026-03-19
+OPP-2026-0186,Ruby Dynamics,90000,Closed Won,100,2026-02-17,2025-10-20,Data Analytics,Emily Rodriguez,East,2026-01-28
+OPP-2026-0187,Wavecrest Ventures,29000,Closed Lost,0,2026-02-19,2025-11-08,Professional Services,Brandon Walsh,North,2026-02-20
+OPP-2026-0188,Clearwater Health,44000,Closed Won,100,2026-03-14,2026-01-20,Hardware & Infrastructure,Nathan Ellis,West,2026-03-10
+OPP-2026-0189,Crestview Industries,175000,Qualification,25,2026-06-10,2026-02-17,Enterprise Software,Diana Nguyen,North,2026-03-17
+OPP-2026-0190,Cobblestone Media,68000,Closed Won,100,2026-02-11,2025-11-21,Professional Services,Emily Rodriguez,South,2026-02-13
+OPP-2026-0191,Anchor Capital,28000,Negotiation,75,2026-04-02,2026-02-03,Cloud Services,Kevin O'Brien,East,2026-03-27
+OPP-2026-0192,Blackstone Tech,83000,Proposal,50,2026-02-25,2025-11-19,Cloud Services,Amanda Foster,West,2026-03-25
+OPP-2026-0193,Foundry Systems,43000,Negotiation,75,2026-02-01,2025-10-24,Professional Services,Marcus Johnson,East,2026-03-21
+OPP-2026-0194,Amber Wave Solutions,121000,Closed Won,100,2025-10-03,2025-08-07,SaaS Platform,David Chen,West,2025-09-29
+OPP-2026-0195,Quartz Technologies,20000,Closed Won,100,2025-11-27,2025-09-05,SaaS Platform,Amanda Foster,South,2025-12-03
+OPP-2026-0196,Northstar Analytics,82000,Negotiation,75,2026-02-03,2025-10-28,Cloud Services,David Chen,South,2026-03-09
+OPP-2026-0197,Cedarwood Capital,52000,Closed Won,100,2025-12-12,2025-10-13,Managed Services,Tyler Brooks,East,2025-11-26
+OPP-2026-0198,Harbor View Financial,30000,Closed Lost,0,2026-01-07,2025-11-19,Cybersecurity,Laura Patel,West,2025-12-20
+OPP-2026-0199,Goldcrest Analytics,14000,Closed Lost,0,2026-03-11,2025-11-11,Cybersecurity,Stephanie Cruz,West,2026-03-17
+OPP-2026-0200,Quartz Technologies,51000,Closed Won,100,2025-11-20,2025-09-19,Professional Services,Kevin O'Brien,North,2025-11-20
+OPP-2026-0201,Palladium Services,34000,Prospecting,10,2026-06-20,2026-03-30,Hardware & Infrastructure,James Thornton,West,2026-03-31
+OPP-2026-0202,Cedarwood Capital,7000,Closed Won,100,2025-11-28,2025-09-18,Professional Services,Amanda Foster,North,2025-11-18
+OPP-2026-0203,Obsidian Capital,83000,Proposal,50,2026-02-03,2025-11-02,Professional Services,Sarah Mitchell,North,2026-03-11
+OPP-2026-0204,Sapphire Consulting,21000,Qualification,25,2026-06-05,2026-03-17,Professional Services,Diana Nguyen,East,2026-03-30
+OPP-2026-0205,Amber Wave Solutions,88000,Qualification,25,2026-05-10,2026-03-27,Cybersecurity,Marcus Johnson,West,2026-03-30
+OPP-2026-0206,Cornerstone IT,32000,Closed Won,100,2025-10-27,2025-08-29,Professional Services,Marcus Johnson,West,2025-10-18
+OPP-2026-0207,Falcon Industries,62000,Negotiation,75,2026-05-18,2026-02-27,Enterprise Software,Stephanie Cruz,West,2026-03-28
+OPP-2026-0208,Horizon Dynamics,50000,Closed Lost,0,2025-10-22,2025-07-02,Cybersecurity,Amanda Foster,East,2025-10-25
+OPP-2026-0209,Blueridge Energy,49000,Negotiation,75,2026-01-26,2025-12-17,Cloud Services,Marcus Johnson,East,2026-03-20
+OPP-2026-0210,Platinum Solutions,46000,Negotiation,75,2026-05-07,2026-02-14,Professional Services,Brandon Walsh,West,2026-03-25
+OPP-2026-0211,Horizon Dynamics,17000,Proposal,50,2026-02-13,2025-12-13,Cloud Services,Amanda Foster,North,2026-03-19
+OPP-2026-0212,Flint Analytics,43000,Prospecting,10,2026-06-17,2026-03-30,Data Analytics,Brandon Walsh,South,2026-03-31
+OPP-2026-0213,Luminary Group,22000,Proposal,50,2026-02-26,2025-10-31,Cloud Services,Marcus Johnson,West,2026-03-12
+OPP-2026-0214,Summit Enterprises,16000,Negotiation,75,2026-01-28,2025-10-13,Hardware & Infrastructure,Laura Patel,North,2026-03-05
+OPP-2026-0215,Luminary Group,85000,Negotiation,75,2026-05-25,2026-02-16,Enterprise Software,Sarah Mitchell,North,2026-03-20
+OPP-2026-0216,Keystone Data,101000,Closed Won,100,2025-12-30,2025-09-13,SaaS Platform,James Thornton,South,2025-12-29
+OPP-2026-0217,Granite Logistics,62000,Proposal,50,2026-02-13,2026-01-04,Data Analytics,Amanda Foster,West,2026-03-18
+OPP-2026-0218,Oakridge Systems,18000,Closed Lost,0,2026-02-10,2025-11-24,Managed Services,Sarah Mitchell,West,2026-01-27
+OPP-2026-0219,Limestone Consulting,53000,Prospecting,10,2026-05-22,2026-03-30,Cloud Services,Amanda Foster,North,2026-03-31
+OPP-2026-0220,Vertex Capital,28000,Negotiation,75,2026-02-16,2025-12-22,Cloud Services,Brandon Walsh,West,2026-03-31
+OPP-2026-0221,Stormfront Security,34000,Negotiation,75,2026-04-06,2026-03-01,Professional Services,Diana Nguyen,East,2026-03-07
+OPP-2026-0222,Foundry Systems,257000,Closed Won,100,2025-12-22,2025-10-21,Enterprise Software,Kevin O'Brien,East,2025-12-22
+OPP-2026-0223,Irongate Capital,81000,Negotiation,75,2026-04-16,2026-01-18,Data Analytics,Rachel Kim,North,2026-03-02
+OPP-2026-0224,Crestview Industries,31000,Closed Lost,0,2026-02-25,2026-01-08,Professional Services,Brandon Walsh,West,2026-02-26
+OPP-2026-0225,Sterling Financial,86000,Proposal,50,2026-04-13,2026-02-03,Enterprise Software,Emily Rodriguez,East,2026-03-10
+OPP-2026-0226,Pinnacle Solutions,13000,Closed Lost,0,2026-03-03,2026-01-09,Hardware & Infrastructure,Nathan Ellis,West,2026-02-13
+OPP-2026-0227,Skyline Networks,99000,Negotiation,75,2025-12-09,2025-09-09,Cloud Services,Emily Rodriguez,South,2026-03-28
+OPP-2026-0228,Apex Systems,15000,Proposal,50,2026-04-12,2026-02-09,SaaS Platform,Emily Rodriguez,West,2026-03-24
+OPP-2026-0229,Quartz Technologies,155000,Negotiation,75,2026-01-10,2025-10-12,Professional Services,Stephanie Cruz,West,2026-03-22
+OPP-2026-0230,Compass Enterprises,127000,Negotiation,75,2026-04-08,2026-01-31,Hardware & Infrastructure,Tyler Brooks,East,2026-03-11
+OPP-2026-0231,Luminary Group,21000,Closed Lost,0,2026-01-31,2025-12-02,Managed Services,Rachel Kim,North,2026-01-11
+OPP-2026-0232,Sandstone Systems,173000,Closed Won,100,2026-01-24,2025-12-19,SaaS Platform,Emily Rodriguez,South,2026-01-19
+OPP-2026-0233,Pumice Analytics,15000,Prospecting,10,2026-06-15,2026-03-30,Enterprise Software,Amanda Foster,North,2026-03-31
+OPP-2026-0234,Compass Enterprises,12000,Qualification,25,2026-04-19,2026-03-08,SaaS Platform,Diana Nguyen,South,2026-03-28
+OPP-2026-0235,Oakridge Systems,93000,Closed Lost,0,2025-10-21,2025-09-07,SaaS Platform,Sarah Mitchell,North,2025-10-07
+OPP-2026-0236,Luminary Group,83000,Negotiation,75,2026-02-17,2026-01-14,Cybersecurity,James Thornton,South,2026-03-27
+OPP-2026-0237,Foundry Systems,42000,Negotiation,75,2026-01-30,2025-11-01,Cloud Services,Sarah Mitchell,East,2026-03-23
+OPP-2026-0238,Crossroads Digital,99000,Proposal,50,2026-01-29,2025-11-04,Professional Services,Rachel Kim,South,2026-03-31
+OPP-2026-0239,Flint Analytics,147000,Closed Lost,0,2026-03-23,2026-01-05,Managed Services,Diana Nguyen,East,2026-03-12
+OPP-2026-0240,Atlas Technologies,85000,Negotiation,75,2025-10-09,2025-08-20,Managed Services,Marcus Johnson,East,2026-03-28
+OPP-2026-0241,Northgate Solutions,74000,Closed Lost,0,2026-01-12,2025-10-04,Cloud Services,Emily Rodriguez,North,2026-01-07
+OPP-2026-0242,Foundry Systems,40000,Closed Lost,0,2025-12-28,2025-09-09,Professional Services,Kevin O'Brien,North,2025-12-09
+OPP-2026-0243,Vantage Point LLC,129000,Prospecting,10,2026-06-16,2026-03-30,Enterprise Software,Sarah Mitchell,South,2026-03-31
+OPP-2026-0244,Broadridge Media,51000,Proposal,50,2025-10-31,2025-07-05,Data Analytics,Sarah Mitchell,East,2026-03-27
+OPP-2026-0245,Coppercrest Software,266000,Prospecting,10,2026-05-25,2026-03-30,Data Analytics,Kevin O'Brien,West,2026-03-30
+OPP-2026-0246,Midland Dynamics,43000,Prospecting,10,2026-05-14,2026-03-03,Enterprise Software,Nathan Ellis,North,2026-03-21
+OPP-2026-0247,Oakridge Systems,124000,Closed Lost,0,2026-01-29,2025-10-26,SaaS Platform,Amanda Foster,East,2026-01-10
+OPP-2026-0248,Lakeside Consulting,47000,Closed Lost,0,2026-02-08,2025-10-28,Professional Services,Sarah Mitchell,South,2026-01-25
+OPP-2026-0249,Onyx Industries,51000,Closed Won,100,2026-03-01,2025-12-24,SaaS Platform,Emily Rodriguez,South,2026-03-03
+OPP-2026-0250,Evergreen Systems,39000,Proposal,50,2026-04-05,2026-02-23,Professional Services,Rachel Kim,South,2026-03-31
+OPP-2026-0251,Coppercrest Software,28000,Closed Lost,0,2026-01-23,2025-10-28,Cloud Services,Tyler Brooks,South,2026-01-24
+OPP-2026-0252,Basalt Technologies,15000,Negotiation,75,2026-01-25,2025-11-04,Hardware & Infrastructure,Emily Rodriguez,South,2026-03-11
+OPP-2026-0253,Midland Dynamics,59000,Negotiation,75,2026-03-24,2025-12-25,Professional Services,David Chen,East,2026-03-26
+OPP-2026-0254,Goldcrest Analytics,7000,Closed Won,100,2025-12-25,2025-11-04,Hardware & Infrastructure,Brandon Walsh,South,2025-12-20
+OPP-2026-0255,Blackstone Tech,86000,Proposal,50,2025-11-29,2025-10-10,Managed Services,Diana Nguyen,South,2026-03-09
+OPP-2026-0256,Lighthouse Software,22000,Closed Lost,0,2025-11-16,2025-09-19,SaaS Platform,Brandon Walsh,South,2025-10-26
+OPP-2026-0257,Amber Wave Solutions,83000,Prospecting,10,2026-05-05,2026-03-30,Cloud Services,James Thornton,West,2026-03-31
+OPP-2026-0258,Obsidian Capital,14000,Closed Lost,0,2026-02-09,2025-11-21,Professional Services,Diana Nguyen,North,2026-02-02
+OPP-2026-0259,Northstar Analytics,206000,Closed Lost,0,2026-03-04,2025-12-24,Data Analytics,Diana Nguyen,South,2026-02-15
+OPP-2026-0260,Sapphire Consulting,30000,Closed Won,100,2025-12-26,2025-09-11,Enterprise Software,Emily Rodriguez,North,2025-12-09
+OPP-2026-0261,Cedarwood Capital,56000,Closed Lost,0,2025-10-07,2025-06-16,SaaS Platform,Kevin O'Brien,West,2025-09-20
+OPP-2026-0262,Lakeside Consulting,150000,Proposal,50,2025-11-03,2025-07-21,Cloud Services,Stephanie Cruz,North,2026-03-04
+OPP-2026-0263,Obsidian Capital,69000,Closed Lost,0,2025-11-15,2025-08-21,Cloud Services,Stephanie Cruz,South,2025-11-03
+OPP-2026-0264,Meridian Global,153000,Negotiation,75,2026-02-17,2026-01-02,SaaS Platform,Amanda Foster,West,2026-03-01
+OPP-2026-0265,Shale Solutions,34000,Prospecting,10,2026-05-10,2026-03-25,Enterprise Software,Rachel Kim,East,2026-03-29
+OPP-2026-0266,Lighthouse Software,73000,Proposal,50,2026-05-24,2026-01-26,Cybersecurity,Diana Nguyen,South,2026-03-01
+OPP-2026-0267,Cedarwood Capital,31000,Closed Won,100,2025-10-22,2025-07-16,SaaS Platform,Marcus Johnson,East,2025-10-04
+OPP-2026-0268,Horizon Dynamics,75000,Qualification,25,2026-06-17,2026-03-19,Hardware & Infrastructure,Rachel Kim,North,2026-03-21
+OPP-2026-0269,Benchmark Global,40000,Proposal,50,2026-01-28,2025-12-22,Hardware & Infrastructure,Diana Nguyen,East,2026-03-18
+OPP-2026-0270,Palladium Services,97000,Negotiation,75,2026-04-13,2025-12-17,Managed Services,Emily Rodriguez,North,2026-03-12
+OPP-2026-0271,Silverstone Media,111000,Prospecting,10,2026-06-24,2026-03-30,Cybersecurity,Rachel Kim,West,2026-03-31
+OPP-2026-0272,Cornerstone IT,118000,Prospecting,10,2026-06-09,2026-03-25,Hardware & Infrastructure,Stephanie Cruz,East,2026-03-30
+OPP-2026-0273,Sapphire Consulting,102000,Closed Won,100,2025-12-11,2025-09-19,Professional Services,Nathan Ellis,South,2025-12-15
+OPP-2026-0274,Blueridge Energy,151000,Closed Lost,0,2025-11-25,2025-10-04,Managed Services,James Thornton,West,2025-11-12
+OPP-2026-0275,Ember Innovations,10000,Prospecting,10,2026-06-01,2026-02-21,SaaS Platform,Amanda Foster,North,2026-03-05
+OPP-2026-0276,Highpoint Consulting,428000,Prospecting,10,2026-06-18,2026-03-19,Professional Services,Nathan Ellis,West,2026-03-29
+OPP-2026-0277,Granite Capital,172000,Negotiation,75,2025-11-19,2025-07-25,Cybersecurity,Tyler Brooks,South,2026-03-03
+OPP-2026-0278,Watershed Consulting,74000,Proposal,50,2026-04-11,2025-12-26,Data Analytics,Kevin O'Brien,West,2026-03-29
+OPP-2026-0279,Lakeside Consulting,183000,Proposal,50,2026-03-12,2025-12-27,Data Analytics,Marcus Johnson,North,2026-03-27
+OPP-2026-0280,Cobalt Networks,94000,Closed Lost,0,2026-03-11,2025-12-23,Data Analytics,Diana Nguyen,North,2026-03-01
+OPP-2026-0281,Luminary Group,28000,Closed Lost,0,2025-12-22,2025-11-07,Cybersecurity,Emily Rodriguez,West,2025-12-28
+OPP-2026-0282,Luminary Group,117000,Proposal,50,2025-10-08,2025-08-17,Cloud Services,Tyler Brooks,South,2026-03-15
+OPP-2026-0283,Luminary Group,95000,Negotiation,75,2026-01-09,2025-12-06,Cloud Services,Stephanie Cruz,East,2026-03-12
+OPP-2026-0284,Redwood Analytics,26000,Negotiation,75,2025-10-12,2025-08-15,SaaS Platform,Kevin O'Brien,North,2026-03-16
+OPP-2026-0285,Slate Digital,37000,Qualification,25,2026-05-17,2026-03-18,Data Analytics,Brandon Walsh,North,2026-03-30
+OPP-2026-0286,Granite Capital,18000,Proposal,50,2026-05-06,2026-01-18,Enterprise Software,James Thornton,East,2026-03-12
+OPP-2026-0287,Southfield Industries,16000,Proposal,50,2025-12-21,2025-11-09,Data Analytics,James Thornton,East,2026-03-10
+OPP-2026-0288,Granite Capital,14000,Closed Won,100,2025-12-02,2025-09-11,Managed Services,David Chen,South,2025-11-25
+OPP-2026-0289,Redwood Analytics,41000,Closed Lost,0,2025-11-20,2025-10-13,Cloud Services,Tyler Brooks,South,2025-11-06
+OPP-2026-0290,Foxglove Analytics,17000,Negotiation,75,2025-10-07,2025-06-12,Professional Services,Sarah Mitchell,North,2026-03-16
+OPP-2026-0291,Foxglove Analytics,34000,Closed Won,100,2025-11-27,2025-08-19,Enterprise Software,Diana Nguyen,West,2025-11-16
+OPP-2026-0292,Skyline Networks,49000,Prospecting,10,2026-06-21,2026-03-30,Cloud Services,Laura Patel,South,2026-03-30
+OPP-2026-0293,Midland Dynamics,114000,Negotiation,75,2026-03-07,2025-12-01,Cybersecurity,Tyler Brooks,West,2026-03-13
+OPP-2026-0294,Pumice Analytics,82000,Prospecting,10,2026-06-30,2026-03-30,Cybersecurity,Stephanie Cruz,East,2026-03-31
+OPP-2026-0295,Cornerstone IT,41000,Proposal,50,2026-04-27,2025-12-28,Cybersecurity,Brandon Walsh,North,2026-03-24
+OPP-2026-0296,Cascade Partners,26000,Negotiation,75,2026-04-08,2025-12-15,Hardware & Infrastructure,Kevin O'Brien,North,2026-03-18
+OPP-2026-0297,Southfield Industries,44000,Closed Lost,0,2025-11-04,2025-10-04,Enterprise Software,Emily Rodriguez,South,2025-10-29
+OPP-2026-0298,Cascade Partners,65000,Proposal,50,2025-10-10,2025-08-14,Managed Services,Amanda Foster,South,2026-03-18
+OPP-2026-0299,Atlas Technologies,160000,Closed Lost,0,2025-12-12,2025-09-09,SaaS Platform,Tyler Brooks,North,2025-12-05
+OPP-2026-0300,Cedarwood Capital,46000,Closed Lost,0,2025-10-04,2025-07-29,Professional Services,Nathan Ellis,South,2025-09-13
+OPP-2026-0301,Evergreen Systems,9000,Proposal,50,2026-02-24,2025-11-04,Managed Services,Emily Rodriguez,North,2026-03-24
+OPP-2026-0302,Pumice Analytics,166000,Proposal,50,2025-11-24,2025-08-26,Enterprise Software,Emily Rodriguez,East,2026-03-13
+OPP-2026-0303,Marble Media,28000,Closed Lost,0,2025-12-13,2025-08-29,Cloud Services,Nathan Ellis,South,2025-12-08
+OPP-2026-0304,Cedarwood Capital,22000,Negotiation,75,2026-04-03,2026-02-28,Cloud Services,Amanda Foster,North,2026-03-11
+OPP-2026-0305,Obsidian Capital,30000,Proposal,50,2026-03-14,2025-11-14,Professional Services,Emily Rodriguez,West,2026-03-03
+OPP-2026-0306,Goldcrest Analytics,223000,Prospecting,10,2026-05-22,2026-03-27,Enterprise Software,David Chen,East,2026-03-30
+OPP-2026-0307,Keystone Data,60000,Closed Lost,0,2025-11-27,2025-10-17,Hardware & Infrastructure,Sarah Mitchell,West,2025-11-13
+OPP-2026-0308,Fieldstone Advisors,70000,Negotiation,75,2026-01-13,2025-10-28,SaaS Platform,Amanda Foster,North,2026-03-31
+OPP-2026-0309,Limestone Consulting,40000,Closed Lost,0,2026-02-01,2025-12-06,Professional Services,Amanda Foster,East,2026-01-12
+OPP-2026-0310,Coppercrest Software,214000,Prospecting,10,2026-05-11,2026-03-04,Cybersecurity,Emily Rodriguez,East,2026-03-30
+OPP-2026-0311,Onyx Industries,141000,Closed Lost,0,2025-11-17,2025-09-24,Managed Services,Tyler Brooks,North,2025-11-11
+OPP-2026-0312,Sandstone Systems,53000,Prospecting,10,2026-04-14,2026-03-04,Enterprise Software,David Chen,South,2026-03-25
+OPP-2026-0313,Midpoint Analytics,93000,Negotiation,75,2026-02-09,2025-12-17,Enterprise Software,Brandon Walsh,East,2026-03-24
+OPP-2026-0314,Apex Systems,29000,Closed Lost,0,2025-11-09,2025-08-18,Managed Services,Nathan Ellis,South,2025-11-14
+OPP-2026-0315,Onyx Industries,19000,Qualification,25,2025-12-28,2025-09-03,Enterprise Software,Rachel Kim,North,2026-03-31
+OPP-2026-0316,Irongate Capital,92000,Closed Lost,0,2025-11-14,2025-10-09,Cybersecurity,Rachel Kim,South,2025-11-12
+OPP-2026-0317,Midpoint Analytics,27000,Negotiation,75,2025-12-14,2025-09-18,Hardware & Infrastructure,Laura Patel,East,2026-03-27
+OPP-2026-0318,Evergreen Systems,63000,Negotiation,75,2026-01-25,2025-10-13,Data Analytics,Nathan Ellis,West,2026-03-02
+OPP-2026-0319,Cornerstone IT,25000,Qualification,25,2026-06-24,2026-02-27,Cloud Services,Kevin O'Brien,South,2026-03-15
+OPP-2026-0320,Nexus Corp,22000,Prospecting,10,2026-06-01,2026-03-21,Enterprise Software,Stephanie Cruz,East,2026-03-23
+OPP-2026-0321,Eastgate Corp,22000,Closed Lost,0,2025-12-10,2025-09-30,Cybersecurity,Amanda Foster,East,2025-12-12
+OPP-2026-0322,Sandstone Systems,37000,Prospecting,10,2026-06-30,2026-03-30,SaaS Platform,Diana Nguyen,North,2026-03-31
+OPP-2026-0323,Clearwater Health,39000,Closed Won,100,2026-03-09,2025-12-31,Managed Services,Stephanie Cruz,North,2026-02-18
+OPP-2026-0324,Westbrook Partners,80000,Proposal,50,2026-06-07,2026-02-12,SaaS Platform,Diana Nguyen,North,2026-03-07
+OPP-2026-0325,Marble Media,20000,Prospecting,10,2026-06-16,2026-03-08,Data Analytics,Amanda Foster,South,2026-03-28
+OPP-2026-0326,Topaz Solutions,94000,Closed Lost,0,2025-10-04,2025-08-24,Managed Services,Amanda Foster,North,2025-10-10
+OPP-2026-0327,Cobalt Networks,29000,Proposal,50,2026-04-21,2026-02-13,Managed Services,Diana Nguyen,East,2026-03-16
+OPP-2026-0328,Cobalt Networks,22000,Closed Won,100,2026-03-19,2025-12-16,Hardware & Infrastructure,Amanda Foster,North,2026-03-16
+OPP-2026-0329,Silverstone Media,53000,Proposal,50,2026-06-23,2026-03-02,Cloud Services,Stephanie Cruz,East,2026-03-07
+OPP-2026-0330,Onyx Industries,112000,Closed Won,100,2026-01-20,2025-10-21,Managed Services,Marcus Johnson,West,2026-01-07
+OPP-2026-0331,Ironclad Software,30000,Closed Won,100,2026-02-22,2025-11-17,Cloud Services,Diana Nguyen,South,2026-02-02
+OPP-2026-0332,Ironclad Software,201000,Closed Lost,0,2026-02-10,2025-12-09,Hardware & Infrastructure,David Chen,East,2026-02-03
+OPP-2026-0333,Diamond Networks,34000,Prospecting,10,2026-05-16,2026-03-23,Data Analytics,Emily Rodriguez,South,2026-03-29
+OPP-2026-0334,Crestview Industries,18000,Closed Won,100,2025-12-29,2025-11-23,Managed Services,Kevin O'Brien,West,2025-12-29
+OPP-2026-0335,Sterling Financial,45000,Proposal,50,2026-05-06,2026-02-14,Enterprise Software,Laura Patel,East,2026-03-08
+OPP-2026-0336,Pumice Analytics,70000,Closed Lost,0,2025-12-19,2025-08-27,Cloud Services,Rachel Kim,West,2025-12-07
+OPP-2026-0337,Cedarwood Capital,125000,Closed Won,100,2026-03-25,2026-02-14,Professional Services,Diana Nguyen,West,2026-03-04
+OPP-2026-0338,Eastgate Corp,122000,Negotiation,75,2025-10-13,2025-07-05,Hardware & Infrastructure,Tyler Brooks,West,2026-03-07
+OPP-2026-0339,Irongate Capital,8000,Prospecting,10,2026-06-23,2026-03-30,SaaS Platform,James Thornton,East,2026-03-30
+OPP-2026-0340,Silverline Consulting,70000,Negotiation,75,2026-04-30,2026-01-12,Hardware & Infrastructure,Emily Rodriguez,North,2026-03-19
+OPP-2026-0341,Cedarwood Capital,34000,Closed Won,100,2026-02-06,2025-12-21,Professional Services,Marcus Johnson,East,2026-01-16
+OPP-2026-0342,Cascade Partners,58000,Closed Lost,0,2026-02-15,2025-12-31,Professional Services,Brandon Walsh,North,2026-02-12
+OPP-2026-0343,Cornerstone IT,59000,Qualification,25,2026-05-16,2026-03-30,Cybersecurity,Brandon Walsh,East,2026-03-30
+OPP-2026-0344,Flint Analytics,39000,Closed Won,100,2026-02-28,2025-11-24,Managed Services,Stephanie Cruz,North,2026-03-01
+OPP-2026-0345,Chalk Industries,41000,Qualification,25,2025-12-03,2025-09-08,SaaS Platform,Nathan Ellis,West,2026-03-10
+OPP-2026-0346,Obsidian Capital,45000,Proposal,50,2026-04-16,2026-01-07,Data Analytics,Sarah Mitchell,East,2026-03-12
+OPP-2026-0347,Nexus Corp,49000,Proposal,50,2026-04-02,2026-02-13,Hardware & Infrastructure,Tyler Brooks,North,2026-03-03
+OPP-2026-0348,Benchmark Global,62000,Proposal,50,2026-04-11,2026-02-18,Cloud Services,Nathan Ellis,East,2026-03-28
+OPP-2026-0349,Amber Wave Solutions,73000,Closed Won,100,2026-01-17,2025-10-12,Professional Services,Sarah Mitchell,West,2026-01-22
+OPP-2026-0350,Meridian Global,69000,Proposal,50,2026-01-03,2025-11-20,Data Analytics,Rachel Kim,West,2026-03-18
+OPP-2026-0351,Silverstone Media,7000,Prospecting,10,2026-05-23,2026-03-29,Enterprise Software,David Chen,East,2026-03-30
+OPP-2026-0352,Pumice Analytics,59000,Negotiation,75,2026-04-18,2026-02-06,SaaS Platform,Brandon Walsh,South,2026-03-21
+OPP-2026-0353,Oakridge Systems,115000,Closed Won,100,2025-11-09,2025-09-30,Enterprise Software,Stephanie Cruz,North,2025-10-30
+OPP-2026-0354,Irongate Capital,127000,Negotiation,75,2026-01-30,2025-10-19,Cloud Services,Laura Patel,West,2026-03-06
+OPP-2026-0355,Highpoint Consulting,27000,Qualification,25,2026-05-21,2026-02-17,Cybersecurity,Marcus Johnson,South,2026-03-09
+OPP-2026-0356,Northstar Analytics,10000,Prospecting,10,2026-06-26,2026-03-30,Cybersecurity,Rachel Kim,South,2026-03-30
+OPP-2026-0357,Slate Digital,56000,Closed Won,100,2025-10-02,2025-06-29,Enterprise Software,Kevin O'Brien,North,2025-09-13
+OPP-2026-0358,Chalk Industries,16000,Proposal,50,2026-03-26,2026-01-09,Data Analytics,Diana Nguyen,North,2026-03-20
+OPP-2026-0359,Chalk Industries,30000,Closed Lost,0,2026-03-07,2025-12-09,SaaS Platform,Kevin O'Brien,North,2026-03-02
+OPP-2026-0360,Falcon Industries,80000,Closed Lost,0,2026-02-27,2025-12-30,Enterprise Software,David Chen,South,2026-02-10
+OPP-2026-0361,Harbor View Financial,38000,Qualification,25,2026-02-10,2025-10-31,Managed Services,Emily Rodriguez,West,2026-03-11
+OPP-2026-0362,Crestview Industries,26000,Closed Won,100,2026-03-14,2025-11-15,Cybersecurity,Stephanie Cruz,South,2026-03-01
+OPP-2026-0363,Nexus Corp,61000,Closed Won,100,2025-12-17,2025-09-03,Enterprise Software,Sarah Mitchell,West,2025-12-15
+OPP-2026-0364,Eastgate Corp,5000,Negotiation,75,2026-05-15,2026-02-08,Hardware & Infrastructure,Stephanie Cruz,South,2026-03-11
+OPP-2026-0365,Cedarwood Capital,17000,Closed Won,100,2025-10-29,2025-09-22,Managed Services,Emily Rodriguez,South,2025-10-20
+OPP-2026-0366,Limestone Consulting,38000,Negotiation,75,2025-12-13,2025-11-11,Hardware & Infrastructure,James Thornton,West,2026-03-31
+OPP-2026-0367,Granite Logistics,43000,Closed Won,100,2026-02-21,2025-12-16,Hardware & Infrastructure,Laura Patel,West,2026-02-07
+OPP-2026-0368,Platinum Solutions,88000,Closed Won,100,2026-01-28,2025-11-12,Data Analytics,Rachel Kim,West,2026-01-29
+OPP-2026-0369,Ironwood Manufacturing,73000,Qualification,25,2025-10-30,2025-08-31,SaaS Platform,Stephanie Cruz,South,2026-03-26
+OPP-2026-0370,Midpoint Analytics,57000,Negotiation,75,2025-12-03,2025-09-14,SaaS Platform,Rachel Kim,North,2026-03-01
+OPP-2026-0371,Cypress Data,119000,Closed Won,100,2026-03-06,2025-11-18,Professional Services,Kevin O'Brien,South,2026-03-11
+OPP-2026-0372,Topaz Solutions,52000,Closed Lost,0,2025-12-01,2025-10-09,Data Analytics,Brandon Walsh,North,2025-11-20
+OPP-2026-0373,Wavecrest Ventures,18000,Proposal,50,2025-10-02,2025-06-11,Cybersecurity,Nathan Ellis,West,2026-03-03
+OPP-2026-0374,Compass Enterprises,73000,Negotiation,75,2026-02-27,2026-01-06,Professional Services,Sarah Mitchell,North,2026-03-27
+OPP-2026-0375,Pumice Analytics,74000,Closed Lost,0,2026-03-25,2025-12-29,Enterprise Software,Tyler Brooks,East,2026-03-07
+OPP-2026-0376,Onyx Industries,50000,Prospecting,10,2026-06-04,2026-02-16,Professional Services,Brandon Walsh,North,2026-03-24
+OPP-2026-0377,Amber Wave Solutions,32000,Qualification,25,2026-06-25,2026-03-12,Cloud Services,Emily Rodriguez,South,2026-03-31
+OPP-2026-0378,Driftwood Digital,21000,Closed Won,100,2025-11-12,2025-08-22,Professional Services,Diana Nguyen,West,2025-11-18
+OPP-2026-0379,Midpoint Analytics,34000,Qualification,25,2026-05-11,2026-02-18,Managed Services,Rachel Kim,South,2026-03-29
+OPP-2026-0380,Topaz Solutions,28000,Qualification,25,2026-06-14,2026-03-07,Hardware & Infrastructure,Marcus Johnson,East,2026-03-09
+OPP-2026-0381,Midland Dynamics,44000,Negotiation,75,2026-04-20,2026-01-01,Managed Services,Sarah Mitchell,North,2026-03-21
+OPP-2026-0382,Evergreen Systems,28000,Negotiation,75,2025-12-27,2025-10-22,Professional Services,Diana Nguyen,South,2026-03-26
+OPP-2026-0383,Sapphire Consulting,25000,Closed Lost,0,2025-11-15,2025-08-09,SaaS Platform,Sarah Mitchell,East,2025-11-11
+OPP-2026-0384,Compass Enterprises,112000,Closed Lost,0,2026-03-20,2025-11-22,Managed Services,Kevin O'Brien,South,2026-03-04
+OPP-2026-0385,Silverstone Media,50000,Closed Lost,0,2025-11-15,2025-07-20,Enterprise Software,Laura Patel,East,2025-11-02
+OPP-2026-0386,Vertex Capital,52000,Closed Won,100,2026-03-04,2026-01-03,Data Analytics,Stephanie Cruz,West,2026-02-27
+OPP-2026-0387,Crossroads Digital,211000,Qualification,25,2025-11-28,2025-09-17,Managed Services,Nathan Ellis,North,2026-03-13
+OPP-2026-0388,Nexus Corp,96000,Prospecting,10,2026-05-15,2026-03-30,Hardware & Infrastructure,Laura Patel,North,2026-03-30
+OPP-2026-0389,Ember Innovations,138000,Prospecting,10,2026-05-29,2026-03-30,Data Analytics,David Chen,South,2026-03-30
+OPP-2026-0390,Marble Media,62000,Closed Won,100,2025-12-08,2025-10-26,Managed Services,Diana Nguyen,East,2025-11-22
+OPP-2026-0391,Watershed Consulting,38000,Proposal,50,2026-05-21,2026-02-26,Cybersecurity,Brandon Walsh,East,2026-03-31
+OPP-2026-0392,Thornton & Associates,101000,Closed Lost,0,2025-10-02,2025-06-10,Managed Services,Diana Nguyen,East,2025-09-13
+OPP-2026-0393,Sterling Financial,43000,Qualification,25,2026-03-23,2026-01-09,Cloud Services,Brandon Walsh,North,2026-03-14
+OPP-2026-0394,Granite Capital,114000,Closed Won,100,2026-02-26,2025-12-21,Cloud Services,Laura Patel,North,2026-02-10
+OPP-2026-0395,Foxglove Analytics,14000,Closed Lost,0,2026-02-14,2025-11-05,Managed Services,Nathan Ellis,East,2026-01-31
+OPP-2026-0396,Willow Creek Software,5000,Closed Lost,0,2025-11-09,2025-08-15,Cloud Services,Emily Rodriguez,South,2025-10-26
+OPP-2026-0397,Slate Digital,69000,Negotiation,75,2026-03-08,2026-01-02,Enterprise Software,Nathan Ellis,East,2026-03-20
+OPP-2026-0398,Sterling Financial,59000,Closed Lost,0,2026-03-23,2026-02-09,Managed Services,Sarah Mitchell,North,2026-03-04
+OPP-2026-0399,Blackstone Tech,47000,Negotiation,75,2026-03-21,2026-02-06,Hardware & Infrastructure,Amanda Foster,West,2026-03-24
+OPP-2026-0400,Wavecrest Ventures,54000,Closed Won,100,2025-11-21,2025-09-25,Cybersecurity,Rachel Kim,East,2025-11-05
