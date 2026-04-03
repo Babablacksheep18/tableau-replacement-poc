@@ -80,7 +80,8 @@ def load_data():
     ])
 
 df_raw = load_data()
-TODAY  = pd.Timestamp("2026-03-31")
+# --TODAY  = pd.Timestamp("2026-03-31")
+TODAY  = pd.Timestamp.now().normalize()
 
 STAGE_ORDER = ["Prospecting", "Qualification", "Proposal", "Negotiation", "Closed Won", "Closed Lost"]
 STAGE_COLORS = {
