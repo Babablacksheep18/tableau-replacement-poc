@@ -524,14 +524,15 @@ with col_monthly:
 # — Revenue Forecast Timeline —
 with col_rev:
     st.markdown('<div class="chart-card">', unsafe_allow_html=True)
-    st.markdown('<div class="section-header">Revenue Forecast — Next 3 Months (Apr–Jun 2026)</div>',
+    months = pd.date_range(TODAY.to_period('M').to_timestamp(), periods=3, freq="MS")
+    _hdr_range = f"{months[0].strftime('%b')}–{months[-1].strftime('%b %Y')}"
+    st.markdown(f'<div class="section-header">Revenue Forecast — Next 3 Months ({_hdr_range})</div>',
                 unsafe_allow_html=True)
 
     # All three scenarios are rep-committed:
     #   Best Case  — 100% of deal value for deals tagged to that month
     #   Likely Case — deal value × stage probability (rep-entered)
     #   Worst Case  — Likely × slider % (derived from historic slippage)
-    months = pd.date_range(TODAY + pd.offsets.MonthBegin(1), periods=3, freq="MS")
     best_case, likely_case, worst_case = [], [], []
 
     for m in months:
